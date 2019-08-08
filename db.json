@@ -1,0 +1,67 @@
+{
+    "user": [{
+            "userId": 6,
+            "firstName": "James",
+            "lastName": "Dean",
+            "password": "imtoocool",
+            "email": "rebel@gmail.com",
+            "income": 10000
+        },
+        {
+            "userId": 8,
+            "firstName": "Way",
+            "lastName": "Gone",
+            "password": "mysweetlord",
+            "email": "NotTheBeetles3!@gmail.com",
+            "income": 30000
+        },
+        {
+            "userId": 1,
+            "firstName": "Paul",
+            "lastName": "McCartney",
+            "password": "paulRulz",
+            "email": "NotTheBeetles1!@gmail.com",
+            "income": 50000
+        },
+        {
+            "userId": 2,
+            "firstName": "John",
+            "lastName": "Lennon",
+            "password": "yoko",
+            "email": "NotTheBeetles2!@gmail.com",
+            "income": 50000
+        },
+        {
+            "userId": 3,
+            "firstName": "George",
+            "lastName": "Harrison",
+            "password": "mysweetlord",
+            "email": "NotTheBeetles3!@gmail.com",
+            "income": 80000
+        },
+        {
+            "userId": 4,
+            "firstName": "Ringo",
+            "lastName": "Starr",
+            "password": "daveGrohlRulz",
+            "email": "NotTheBeetles4!@gmail.com",
+            "income": 50000
+        },
+        {
+            "userId": 5,
+            "firstName": "dude",
+            "lastName": "duder",
+            "password": "stuff",
+            "email": "stuff@gmail.com",
+            "income": 300
+        },
+        {
+            "userId": 7,
+            "firstName": "James",
+            "lastName": "Dean",
+            "password": "imtoocool",
+            "email": "rebel@gmail.com",
+            "income": 5000
+        }
+    ]
+}
